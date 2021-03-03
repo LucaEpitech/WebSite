@@ -60,6 +60,11 @@ section .container h2 span.text4 {
     filter: hue-rotate(180deg);
 }
 
+section .container h2 span.text5 {
+    animation-delay: -2s;
+    filter: hue-rotate(50deg);
+}
+
 @keyframes animate {
     0%,
     5%,
